@@ -17,35 +17,10 @@ a:hover{
     font-weight:700;
 }
 
-.pukkel-foto {
+img{
     width:250px;
     height: 20%;
-    border: 2px;
-    border-color:#000000;
-}
-.rock-foto {
-    width:250px;
-    height: 20%;
-    border: 2px;
-    border-color:#000000;
-}
-.Tomorrowland-foto {
-    width:250px;
-    height: 20%;
-    border: 2px;
-    border-color:#000000;
-}
-.Graspop-foto{
-    width:250px;
-    height: 20%;
-    border: 2px;
-    border-color:#000000;
-}
-.Bastionfestival-foto {
-    width:250px;
-    height: 20%;
-    border: 2px;
-    border-color:#000000;
+    border: 2px solid #000000;
 }
 header{
     padding: 20px;
